@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<settings settings_version="1.0">
+<sites>
+<site siteurl="http://www.cs.duke.edu/courses/compsci101/spring15/snarf/snarf.xml"/>
+</sites>
+<history>
+<install date="01.15.2015.05.03.58" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/spring15_compsci101_lab01" name="spring15_compsci101_lab01" publisher="SHR" version="1.0"/>
+<install date="01.15.2015.05.05.18" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_bmi" name="apt_bmi" publisher="rodger" version="1.0"/>
+<install date="01.20.2015.02.29.11" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/spring15_lect0120" name="spring15_lect0120" publisher="rodger" version="1.0"/>
+<install date="01.21.2015.07.42.56" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_bogsquare" name="apt_bogsquare" publisher="rodger" version="1.0"/>
+<install date="01.21.2015.07.43.21" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_gravity" name="apt_gravity" publisher="rodger" version="1.0"/>
+<install date="01.21.2015.07.43.29" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_perimeter" name="apt_perimeter" publisher="rodger" version="1.0"/>
+<install date="01.21.2015.07.43.38" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_totalweight" name="apt_totalweight" publisher="rodger" version="1.0"/>
+<install date="01.22.2015.07.49.10" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_acronym" name="apt_acronym" publisher="rodger" version="1.0"/>
+<install date="01.27.2015.01.31.33" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_pancakes" name="apt_pancakes" publisher="rodger" version="1.0"/>
+<install date="01.29.2015.01.46.19" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_cgratio" name="apt_cgratio" publisher="rodger" version="1.0"/>
+<install date="01.29.2015.01.46.31" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_emphasize" name="apt_emphasize" publisher="rodger" version="1.0"/>
+<install date="01.29.2015.01.46.38" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_grayscale" name="apt_grayscale" publisher="rodger" version="1.0"/>
+<install date="01.29.2015.01.46.45" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_lastnamefirst" name="apt_lastnamefirst" publisher="rodger" version="1.0"/>
+<install date="01.29.2015.01.46.57" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_laundry" name="apt_laundry" publisher="rodger" version="1.0"/>
+<install date="01.29.2015.01.47.05" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_removemiddle" name="apt_removemiddle" publisher="rodger" version="1.0"/>
+<install date="02.03.2015.02.25.07" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/spring15_lect0203" name="spring15_lect0203" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.01.23.11" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_bagels" name="apt_bagels" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.01.23.18" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_britishchange" name="apt_britishchange" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.01.23.24" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_countappearances" name="apt_countappearances" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.01.23.39" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_isspecial" name="apt_isspecial" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.01.23.45" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_piglatin" name="apt_piglatin" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.01.23.52" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_replacefirsthalf" name="apt_replacefirsthalf" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.01.24.01" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_scoreityahtzee" name="apt_scoreityahtzee" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.01.24.06" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_txtmsg" name="apt_txtmsg" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.01.29.26" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/sp15_cps101_asg4_transform" name="sp15_cps101_asg4_transform" publisher="rodger" version="1.0"/>
+<install date="02.09.2015.08.22.53" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/sp15_cps101_asg4_transform" name="sp15_cps101_asg4_transform" publisher="rodger" version="1.0"/>
+<install date="02.19.2015.05.01.57" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/spring15_compsci101_lab5" name="spring15_compsci101_lab5" publisher="SHR" version="1.0"/>
+<install date="02.22.2015.05.32.17" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_carrotboxes" name="apt_carrotboxes" publisher="SHR" version="1.0"/>
+<install date="02.22.2015.05.32.28" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_circlescountry" name="apt_circlescountry" publisher="SHR" version="1.0"/>
+<install date="02.22.2015.05.32.49" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_colorfultiles" name="apt_colorfultiles" publisher="SHR" version="1.0"/>
+<install date="02.22.2015.05.32.57" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_mincostpalindrome" name="apt_mincostpalindrome" publisher="SHR" version="1.0"/>
+<install date="02.22.2015.05.33.03" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_sandwichbar" name="apt_sandwichbar" publisher="rodger" version="1.0"/>
+<install date="02.22.2015.05.33.24" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_silverdistance" name="apt_silverdistance" publisher="SHR" version="1.0"/>
+<install date="02.27.2015.05.30.26" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_alliteration" name="apt_alliteration" publisher="SHR" version="1.0"/>
+<install date="02.27.2015.05.30.32" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_anagramfree" name="apt_anagramfree" publisher="SHR" version="1.0"/>
+<install date="02.27.2015.05.30.40" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_eatinggood" name="apt_eatinggood" publisher="SHR" version="1.0"/>
+<install date="02.27.2015.05.30.48" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_startletters" name="apt_startletters" publisher="SHR" version="1.0"/>
+<install date="02.27.2015.05.30.54" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_fortunatenumbers" name="apt_fortunatenumbers" publisher="SHR" version="1.0"/>
+<install date="03.03.2015.01.48.10" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/spring15_lect0303" name="spring15_lect0303" publisher="rodger" version="1.0"/>
+<install date="03.05.2015.01.44.46" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/spring15_lect0305" name="spring15_lect0305" publisher="rodger" version="1.0"/>
+<install date="03.05.2015.04.58.11" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/spring15_compsci101_lab07" name="spring15_compsci101_lab07" publisher="SHR" version="1.0"/>
+<install date="03.05.2015.07.36.40" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/sp15_cps101_asg5_hangman" name="sp15_cps101_asg5_hangman" publisher="rodger" version="1.0"/>
+<install date="03.17.2015.11.01.05" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_chocolatebar" name="apt_chocolatebar" publisher="SHR" version="1.0"/>
+<install date="03.17.2015.11.01.11" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_uniquenames" name="apt_uniquenames" publisher="SHR" version="1.0"/>
+<install date="03.17.2015.11.01.18" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_uniquezoo" name="apt_uniquezoo" publisher="SHR" version="1.0"/>
+<install date="03.17.2015.11.01.28" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_worldcomposition" name="apt_worldcomposition" publisher="SHR" version="1.0"/>
+<install date="03.19.2015.04.47.03" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/spring15_compsci101_lab08" name="spring15_compsci101_lab08" publisher="SHR" version="1.0"/>
+<install date="03.19.2015.05.27.30" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_voterigging" name="apt_voterigging" publisher="SHR" version="1.0"/>
+<install date="03.24.2015.12.29.43" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_dnacodingregion" name="apt_dnacodingregion" publisher="SHR" version="1.0"/>
+<install date="03.24.2015.12.29.49" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_dnareversecomp" name="apt_dnareversecomp" publisher="SHR" version="1.0"/>
+<install date="03.24.2015.12.29.54" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_pikachu" name="apt_pikachu" publisher="SHR" version="1.0"/>
+<install date="03.25.2015.10.15.51" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/sp15_cps101_asg6_bioinformatics" name="sp15_cps101_asg6_bioinformatics" publisher="rodger" version="1.0"/>
+<install date="03.26.2015.04.48.28" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/spring15_compsci101_lab09" name="spring15_compsci101_lab09" publisher="SHR" version="1.0"/>
+<install date="03.31.2015.01.47.36" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_charitydonor" name="apt_charitydonor" publisher="SHR" version="1.0"/>
+<install date="03.31.2015.01.47.53" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_emailscourse" name="apt_emailscourse" publisher="SHR" version="1.0"/>
+<install date="03.31.2015.01.48.01" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_speeddial" name="apt_speeddial" publisher="SHR" version="1.0"/>
+<install date="03.31.2015.01.48.18" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_membercheck" name="apt_membercheck" publisher="SHR" version="1.0"/>
+<install date="03.31.2015.01.48.24" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_friendscore" name="apt_friendscore" publisher="SHR" version="1.0"/>
+<install date="03.31.2015.01.48.31" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_customerstatistics" name="apt_customerstatistics" publisher="SHR" version="1.0"/>
+<install date="04.12.2015.10.21.31" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_auntuncle" name="apt_auntuncle" publisher="SHR" version="1.0"/>
+<install date="04.12.2015.10.21.36" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_eatdrink" name="apt_eatdrink" publisher="SHR" version="1.0"/>
+<install date="04.12.2015.10.21.43" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_interestingparty" name="apt_interestingparty" publisher="SHR" version="1.0"/>
+<install date="04.12.2015.10.21.50" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_medaltable" name="apt_medaltable" publisher="SHR" version="1.0"/>
+<install date="04.12.2015.10.21.57" location="/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/apt_positiveid" name="apt_positiveid" publisher="SHR" version="1.0"/>
+</history>
+</settings>

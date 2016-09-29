@@ -1,0 +1,9 @@
+Ivoryanna Brown
+I started the assignment 1/21/15 and finished the same day.
+It took me approximately 30 minutes to complete.
+I did not receive help on this assignment.
+I enjoyed this assignment because I really wanted to find ways to make it even better.
+I attempted to ask the user if the weight and height they entered was correct and if not then 
+have them re start the program and if so them tell them the BMI. However, I kept running into
+an issue with my variable for their answer and the if statement to see whether they
+responded Yes,yes,no,or No. 

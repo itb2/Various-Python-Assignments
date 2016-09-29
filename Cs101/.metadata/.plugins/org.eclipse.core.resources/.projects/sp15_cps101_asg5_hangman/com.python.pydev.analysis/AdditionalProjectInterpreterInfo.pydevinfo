@@ -1,0 +1,27 @@
+-- VERSION_4
+-- START DISKCACHE
+/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/.metadata/.plugins/org.eclipse.core.resources/.projects/sp15_cps101_asg5_hangman/com.python.pydev.analysis/v2_indexcache
+Hangdemo|1425602185000|/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/sp15_cps101_asg5_hangman/src/Hangdemo.py
+Hangman|1428623743000|/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/sp15_cps101_asg5_hangman/src/Hangman.py
+GuessNumber|1425602185000|/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/sp15_cps101_asg5_hangman/src/GuessNumber.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=Hangdemo
+1=Hangman
+3=GuessNumber
+-- END DICTIONARY
+-- START TREE 1
+8
+com|1|compare_correctorno!10@
+get|2|get_words!18@get_status!26@
+inp|4|inpt_numberofletters!10@input_guesses!10@input_MissesAllowed!10@inpt_letterorword!10@
+loa|1|load_lines!18@
+pla|3|play_game_computerguess!26@play_game_humanguess!26@play!10@
+ran|1|rand_word!10@
+rec|1|recreate_WordAndBlanks!10@
+use|1|user!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

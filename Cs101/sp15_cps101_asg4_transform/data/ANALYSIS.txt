@@ -1,0 +1,7 @@
+To determine whether a file has been translated to piglatin I could look at the end of the word and if it ends in 'ay'
+AND has a hyphen, it is likely encoded in piglatin. To determine if it has been translated in ROT13 is a little more 
+confusing. I think that if I had a large text in a file, it is likely that some really common words (such as "the",
+'my', 'a', etc.) are included in it. I could check to see if any of the words in the text I am given are present in
+the large text. If the text does not have any words that are present in the large text, it has none of those common
+words. A text without ANY common words that may be in that large text is likely coded in ROT13 if not determined to 
+be coded in piglatin.

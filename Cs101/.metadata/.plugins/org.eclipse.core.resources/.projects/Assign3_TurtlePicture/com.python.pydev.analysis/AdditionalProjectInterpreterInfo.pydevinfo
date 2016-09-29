@@ -1,0 +1,22 @@
+-- VERSION_4
+-- START DISKCACHE
+/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/.metadata/.plugins/org.eclipse.core.resources/.projects/Assign3_TurtlePicture/com.python.pydev.analysis/v2_indexcache
+Picture|1422939763000|/Users/Ivory/Downloads/eclipse/Eclipse.app/Contents/MacOS/Cs101/Assign3_TurtlePicture/Picture.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=Picture
+-- END DICTIONARY
+-- START TREE 1
+7
+bel|1|belly!10@
+dra|3|draw!10@drawPolygon!10@drawCircle!10@
+eye|1|eyes!10@
+foo|2|foot2!10@foot1!10@
+gra|1|grass!10@
+hea|1|head!10@
+wn|1|wn!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

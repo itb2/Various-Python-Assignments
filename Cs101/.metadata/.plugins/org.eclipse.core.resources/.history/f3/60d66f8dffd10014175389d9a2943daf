@@ -1,0 +1,34 @@
+'''
+Created on Mar 24, 2015
+
+@author: Ivory
+'''
+def findRegion(dna):
+    """
+    dna is a string of dna. 
+    Return the first valid protein-coding region.
+    """
+      
+    # you write code here
+    dna = str(dna)
+    b = dna.find('atg') #Finds where the first atg starts
+    new = dna[b+3:]
+    final=""
+    if b != -1:
+        c = new.find('taa')
+        d = new.find('tag')
+        e = new.find('tga')
+        indlist = []
+        indlist.append(c)
+        indlist.append(d)
+        indlist.append(e)
+        indlist.sort()
+        x = 0
+        for n in indlist:
+            if len(new[:n])%3==0 and x==0:
+                final = new[:n]
+                x+=1
+            
+    return final
+    
+    
